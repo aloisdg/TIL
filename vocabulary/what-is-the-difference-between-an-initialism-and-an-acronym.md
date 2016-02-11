@@ -13,3 +13,5 @@ For example, "BBC" (British Broadcasting Corporation), or HBO (Home Box Office).
 ## Conclusion
 
 The key difference between an acronym and an initialism is that an acronym forms a new word, while an initalism does not.
+
+[source](http://lyberty.com/encyc/articles/abbr.html)
