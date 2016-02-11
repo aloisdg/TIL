@@ -1,6 +1,6 @@
 ## How to get everything except something else
 
-Enable the `extglob` option, like this:
+The `extglob` shell option gives you more powerful pattern matching in the command line. Enable the `extglob` option, like this:
 
     ~/foobar> shopt extglob # display the value of extglob
     extglob         off
@@ -22,3 +22,5 @@ You can later disable extglob with
 
 
 [source](http://stackoverflow.com/a/217017/1248177)
+
+[more](http://stackoverflow.com/a/217208/1248177)
